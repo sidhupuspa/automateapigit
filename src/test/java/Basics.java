@@ -46,6 +46,8 @@ given().log().all().queryParam("key","qaclick123").header("Content-Type", "appli
 
 // now add default content type which we are sending in heading 
 
+// velidate 
+
 	}
 
 }
